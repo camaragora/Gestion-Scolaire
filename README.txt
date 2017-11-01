@@ -1,0 +1,1 @@
+cette application assure la gestion d'un établissement scolaire.elle gére les étudiants et les profésseurs
